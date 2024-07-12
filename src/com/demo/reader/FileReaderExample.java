@@ -6,7 +6,7 @@ import java.io.IOException;
 /*
 * This class demonstrates how to read a file using FileReader.
 * */
-public class UsingFileReaderExample {
+public class FileReaderExample {
   public static void main ( String[] args ) {
 
     /* create a FileReader object to read the file "sample.txt" */
